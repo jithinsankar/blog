@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog=self.webpackChunkblog||[]).push([[850],{8259:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Twitter is the next LinkedIn","permalink":"/tech/twitter-is-the-next-LinkedIn"}]}')}}]);
