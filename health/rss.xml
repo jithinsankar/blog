@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>Jithin's Blog Blog</title>
-        <link>https://github.com/health</link>
+        <link>https://blog.ji7.in/health</link>
         <description>Jithin's Blog Blog</description>
         <lastBuildDate>Sun, 01 Aug 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -10,7 +10,7 @@
         <language>en</language>
         <item>
             <title><![CDATA[Lats]]></title>
-            <link>https://github.com/health/Lats</link>
+            <link>https://blog.ji7.in/health/Lats</link>
             <guid>Lats</guid>
             <pubDate>Sun, 01 Aug 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[The most important thing while doing lats exercise in gym is to pinch your shoulder blades. It should be like trying to hold a pencil with your shoulder blades.]]></description>

@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://github.com/health</id>
+    <id>https://blog.ji7.in/health</id>
     <title>Jithin's Blog Blog</title>
     <updated>2021-08-01T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://github.com/health"/>
+    <link rel="alternate" href="https://blog.ji7.in/health"/>
     <subtitle>Jithin's Blog Blog</subtitle>
-    <icon>https://github.com/img/profile_pic.ico</icon>
+    <icon>https://blog.ji7.in/img/profile_pic.ico</icon>
     <entry>
         <title type="html"><![CDATA[Lats]]></title>
         <id>Lats</id>
-        <link href="https://github.com/health/Lats"/>
+        <link href="https://blog.ji7.in/health/Lats"/>
         <updated>2021-08-01T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[The most important thing while doing lats exercise in gym is to pinch your shoulder blades. It should be like trying to hold a pencil with your shoulder blades.]]></summary>
         <content type="html"><![CDATA[<p>The most important thing while doing lats exercise in gym is to pinch your shoulder blades. It should be like trying to hold a pencil with your shoulder blades.</p>]]></content>
