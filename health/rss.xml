@@ -4,10 +4,20 @@
         <title>Jithin's Blog Blog</title>
         <link>https://blog.ji7.in/health</link>
         <description>Jithin's Blog Blog</description>
-        <lastBuildDate>Sun, 01 Aug 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Oct 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Supination vs Pronation]]></title>
+            <link>https://blog.ji7.in/health/Lats</link>
+            <guid>Lats</guid>
+            <pubDate>Mon, 24 Oct 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[Supination is when your palm faces up.]]></description>
+            <content:encoded><![CDATA[<p>The most important thing while doing lats exercise in gym is to pinch your shoulder blades. It should be like trying to hold a pencil with your shoulder blades.</p>]]></content:encoded>
+            <category>Supination</category>
+            <category>Pronation</category>
+        </item>
         <item>
             <title><![CDATA[Lats]]></title>
             <link>https://blog.ji7.in/health/Lats</link>

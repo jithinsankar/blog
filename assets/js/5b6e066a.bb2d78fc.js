@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog=self.webpackChunkblog||[]).push([[3080],{8851:a=>{a.exports=JSON.parse('[{"label":"Supination","permalink":"/health/tags/supination","count":1},{"label":"Pronation","permalink":"/health/tags/pronation","count":1},{"label":"Lats","permalink":"/health/tags/lats","count":1}]')}}]);

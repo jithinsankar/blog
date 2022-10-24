@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog=self.webpackChunkblog||[]).push([[7942],{240:a=>{a.exports=JSON.parse('{"label":"Pronation","permalink":"/health/tags/pronation","allTagsPath":"/health/tags","count":1}')}}]);
