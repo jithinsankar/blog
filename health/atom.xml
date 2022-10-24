@@ -9,11 +9,12 @@
     <icon>https://blog.ji7.in/img/profile_pic.ico</icon>
     <entry>
         <title type="html"><![CDATA[Supination vs Pronation]]></title>
-        <id>Lats</id>
-        <link href="https://blog.ji7.in/health/Lats"/>
+        <id>Supination-Pronation</id>
+        <link href="https://blog.ji7.in/health/Supination-Pronation"/>
         <updated>2022-10-24T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Supination is when your palm faces up.]]></summary>
-        <content type="html"><![CDATA[<p>The most important thing while doing lats exercise in gym is to pinch your shoulder blades. It should be like trying to hold a pencil with your shoulder blades.</p>]]></content>
+        <content type="html"><![CDATA[<p>Supination is when your palm faces up.
+Pronation is when your palm faces down.</p>]]></content>
         <author>
             <name>Jithin Sankar</name>
             <uri>https://github.com/jithinsankar</uri>

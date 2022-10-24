@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkblog=self.webpackChunkblog||[]).push([[550],{8941:t=>{t.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Supination vs Pronation","permalink":"/health/Lats"},{"title":"Lats","permalink":"/health/Lats"}]}')}}]);
